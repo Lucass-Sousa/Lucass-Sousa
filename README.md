@@ -21,13 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucass-Sousa&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-sousa-79a0b0334/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
