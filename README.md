@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Lucas!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=37B6E9&center=true&vCenter=true&width=435&lines=Frontend+Developer;Passionate+about+UI%2FUX;Building+modern+interfaces" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=37B6E9&center=true&vCenter=true&width=435&lines=Frontend+Developer;Passionate+about+UI%2FUX;Designer+UX/+UI" />
 </p>
 
 ---
