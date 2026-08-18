@@ -25,6 +25,15 @@
 - 📍 Location: Brazil  
 
 ---
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://octor.com.br/images/logos/logo-icon.webp"/>](https://octor.com.br/)
+
+**Fullstack Developer Web and Mobile (Jr)** \
+[**Octor**](https://octor.com.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `NextJS`, `React`, `Tailwind`, `React Native`, `PHP - Codeigniter 4`,`RUST` \
+
+<br/>
+<br/>
+---
 
 ### 🧩 Technologies I Use
 <p align="center">
