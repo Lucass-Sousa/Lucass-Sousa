@@ -29,7 +29,7 @@
 
 **Fullstack Developer Web and Mobile (Jr)** \
 [**Octor**](https://octor.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `NextJS`, `React`, `Tailwind`, `React Native`, `PHP - Codeigniter 4`,`RUST` \
+Languages and Tecnologies: `JavaScript`, `NextJS`, `React`, `Tailwind`, `React Native`, `PHP - Codeigniter 4`,`RUST` \
 
 <br/>
 <br/>
