@@ -33,7 +33,6 @@ Linguagens & Tecnologias: `JavaScript`, `NextJS`, `React`, `Tailwind`, `React Na
 
 <br/>
 <br/>
----
 
 ### 🧩 Technologies I Use
 <p align="center">
