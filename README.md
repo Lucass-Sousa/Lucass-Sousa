@@ -37,8 +37,6 @@
   <i>“Those who surround themselves with problem-solvers learn not to make excuses.”</i>
 </p>
 
-<br clear="both">
-
 <img data-importer="snake" src="https://raw.githubusercontent.com/Lucass-sousa/Lucass-sousa/snake-output/snake.svg" alt="Snake animation" />
 
 ###
