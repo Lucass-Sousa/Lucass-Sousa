@@ -44,4 +44,3 @@ Languages and Tecnologies: `JavaScript`, `NextJS`, `React`, `Tailwind`, `React N
 <p align="center">
   <i>“Those who surround themselves with problem-solvers learn not to make excuses.”</i>
 </p>
-###
